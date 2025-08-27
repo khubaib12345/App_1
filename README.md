@@ -27,3 +27,9 @@ ElevatedButton → Interactive button with custom styling.
 ## Getting Started
 
 flutter run 
+# My First Flutter App
+
+This is my first Flutter app 🚀
+
+## Screenshot
+![App Screenshot](assets/screenshot.png)
